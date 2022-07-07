@@ -1,0 +1,42 @@
+body{
+    font-family: 'Arima', cursive;
+    background: linear-gradient(#03fc90, #0320fc, #a503fc, red);
+}
+.header_div{
+    background: whitesmoke;
+    color: red;
+}
+.header_div p{
+    font-family: 'Splash', cursive;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Pacifico', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: antiquewhite;
+    line-height: 1.5;
+    text-align: center;
+    text-shadow: 5px, 5px, 5px, rgb(151, 149, 149);
+}
+h3{
+    color: black;
+    font-weight: bold;
+}
+h4{
+    color: black;
+    font-weight: bold;
+}
